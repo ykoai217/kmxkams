@@ -1,0 +1,14 @@
+Edge ID,Sample ID,MI Transaction ID,From Facet,From Concept ID,From Concept Label,Edge Type,To Facet,To Concept ID,To Concept Label,Evidence State,Source IDs,Notes,Codebook Version
+E01,T010,SPTRD1784042,PR,PR-01,Structural demand growth,creates,BC,BC-03,Capability or product gap,E4,S07,Market growth in DC/enterprise compute makes Richtek's DC absence a deficit (hypothesis).,v0.3-calibration-freeze
+E02,T010,SPTRD1784042,BC,BC-03,Capability or product gap,activates,BM,BM-05,Customer-segment entry,E1,S07,CEO links DC absence directly to the deal as a DC entry point.,v0.3-calibration-freeze
+E03,T010,SPTRD1784042,AR,AR-01,Strategic corporate (listed),selects,BM,BM-05,Customer-segment entry,E4,S16,Strategic-corporate parent selects the operating-motive layer.,v0.3-calibration-freeze
+E04,T010,SPTRD1784042,BM,BM-05,Customer-segment entry,requires,RO,RO-09,Technology / product,E1,S02;S06,Segment entry requires control of the enterprise power product line.,v0.3-calibration-freeze
+E05,T010,SPTRD1784042,BM,BM-04,Product / service scope expansion,requires,RO,RO-09,Technology / product,E1,S02,Product-scope expansion requires the Enpirion product family.,v0.3-calibration-freeze
+E06,T010,SPTRD1784042,BM,BM-07,Capability acquisition,requires,RO,RO-10,Intellectual property and data,E4,S02,Technology motive would require IP/designs (perimeter unverified).,v0.3-calibration-freeze
+E07,T010,SPTRD1784042,RO,RO-09,Technology / product,realises,VM,VM-01,Time compression,E4,S07,Owning an existing qualified product line compresses time to DC design-ins.,v0.3-calibration-freeze
+E08,T010,SPTRD1784042,RO,RO-09,Technology / product,realises,VM,VM-08,Revenue synergy (cross-sell and bundling),E4,S07,Product line could be cross-sold with group ASIC/server offers.,v0.3-calibration-freeze
+E09,T010,SPTRD1784042,SM,SM-01,Portfolio simplification / non-core exit,creates,SI,SI-01,Corporate carve-out,E1,S08,Intel's non-core exit creates the carve-out situation.,v0.3-calibration-freeze
+E10,T010,SPTRD1784042,SI,SI-01,Corporate carve-out,affects,ST,ST-02,Asset acquisition,E1,S02;S13,Carve-out situation shapes the asset-purchase form.,v0.3-calibration-freeze
+E11,T010,SPTRD1784042,SI,SI-01,Corporate carve-out,affects,ST,ST-09,Carve-out / spin-off / split-off,E1,S02;S08,Carve-out situation shapes the separation form.,v0.3-calibration-freeze
+E12,T010,SPTRD1784042,AT,AT-02,Build is cheaper within the required time,refutes,BM,BM-05,Customer-segment entry,E5,,Organic build in time would refute the segment-entry-by-acquisition thesis; untested.,v0.3-calibration-freeze
+E13,T010,SPTRD1784042,AT,AT-01,Control not necessary,refutes,BM,BM-05,Customer-segment entry,E5,S11,Partnership sufficiency would refute control necessity; untested.,v0.3-calibration-freeze

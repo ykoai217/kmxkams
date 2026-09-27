@@ -1,0 +1,18 @@
+CAPTURE TYPE: search-index result list and engine synthesis (NOT a source body).
+Retrieved: 2026-09-27
+Query: 立錡 英特爾 Enpirion 電源管理 資產 收購 8500萬美元
+Links:
+- 聯發科併購英特爾旗下Enpirion 蔡力行：瞄準資料中心 | ETtoday | https://finance.ettoday.net/news/1857099
+- 立錡收購英特爾電源管理晶片資產破局 不影響合作 | 經濟日報 | https://money.udn.com/money/story/5612/5632183
+- 聯發科旗下立錡 8,500萬美收購英特爾轉投資Enpirion電源管理IC產品線 | 工商/中時 | https://www.chinatimes.com/realtimenews/20201117002026-260410
+- 聯發科宣布立錡併英特爾FPGA電源管理部門破局｜數位時代 | https://www.bnext.com.tw/article/60109/mediatek-intel
+- 聯發科 收購英特爾旗下FPGA電源IC | 工商時報 | https://www.ctee.com.tw/news/20201118700950-439901
+- 聯發科砸24.3億元 併購英特爾旗下FPGA電源管理部門 | 聯合新聞網 | https://udn.com/news/story/7240/5021039
+- 聯發科將斥24億元 併購Intel旗下電源管理晶片產品資產 | Anue鉅亨 | https://news.cnyes.com/news/id/4543260
+- 收編Intel電源解決方案 聯發科吃補布局多元業務 | CTWANT | https://www.ctwant.com/article/85365
+- 立錡擬收購Enpirion電源管理IC產品線，交易額8,500萬美元 | 經濟部工業局 SIPO | https://www.sipo.org.tw/industry-overview/industry-news/item/2168-2020111801.html
+Engine synthesis (verbatim extract):
+"聯發科旗下立錡投入8500萬美元（約新台幣24.3億元），收購英特爾旗下Enpirion電源管理晶片產品線。"
+"此一收購案將拓展產品線，提供使用在可程式邏輯閘陣列（FPGA）、系統單晶片（SoC）、中央處理器（CPU）、及特殊應用晶片（ASIC）上的整合式高頻、高效率的電源解決方案至企業級系統應用。"
+"聯發科執行長蔡力行表示，立錡在電源管理晶片一直做得很好，但始終未打入資料中心的應用，透過這次併購，打入高階應用，是一個進入資料中心很好的access（切入點）。"
+"立錡收購英特爾及其子公司旗下Enpirion電源管理晶片產品線相關資產一案最終生變，聯發科公告立錡與英特爾雙方合意終止交易。這項交易最終在2021年7月宣布破局。"

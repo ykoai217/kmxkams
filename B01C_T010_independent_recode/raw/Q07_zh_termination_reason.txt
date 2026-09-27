@@ -1,0 +1,12 @@
+CAPTURE TYPE: search-index result list and engine synthesis (NOT a source body).
+Retrieved: 2026-09-27
+Query: 聯發科 立錡 Enpirion 終止 原因 監管 審查 未獲
+Links:
+- 立錡收購英特爾電源管理晶片資產破局 不影響合作 | 經濟日報 | https://money.udn.com/money/story/5612/5632183
+- 聯發科：終止收購英特爾旗下Enpirion電源管理晶片產品線 | 經濟日報 | https://money.udn.com/money/story/5612/5632071
+- 聯發科併英特爾電源管理IC事業告吹 雙方合意終止交易 | 工商時報 | https://www.ctee.com.tw/news/20210728700718-430502
+Engine synthesis (verbatim extract):
+"Richtek's acquisition of Intel's Enpirion power management chip product line assets was ultimately terminated, with Richtek and Intel mutually agreeing to end the transaction. This announcement was made on July 27, 2021."
+"MediaTek did not provide a detailed explanation for why the transaction fell through, only emphasizing that other commercial cooperation between the two parties would not be affected and that it had no material impact on the company's finances and operations."
+"industry analysts speculated that the termination may have been related to Intel's new CEO Pat Gelsinger taking office and potentially having other plans for the division, while the power management IC market was experiencing robust activity at the time."
+NOTE: the speculation is not attributed to an identified outlet or analyst in the capture. Treated as a rival-generator only, never as evidence.

@@ -1,0 +1,14 @@
+CAPTURE TYPE: search-index result list and engine synthesis (NOT a source body).
+Retrieved: 2026-09-27
+Query: 立錡 英特爾 Enpirion 合意終止 交易 2021 公告
+Links:
+- 聯發科併英特爾電源管理IC事業告吹 雙方合意終止交易 | 工商時報 | https://www.ctee.com.tw/news/20210728700718-430502
+- 英特爾電源管理IC事業 聯發科不要了 | 工商時報 | https://www.ctee.com.tw/news/20210728700218-430502
+- 聯發科宣布終止收購英特爾旗下電源管理晶片產品線 | TechNews | https://finance.technews.tw/2021/07/28/mediatek-terminates-its-acquisition-of-enpirion/
+- 立錡收購英特爾電源管理晶片資產破局 不影響合作 | 經濟日報 | https://money.udn.com/money/story/5612/5632183
+- 聯發科宣布 將終止收購英特爾旗下PMIC產品線 | 鉅亨網 | https://news.cnyes.com/news/id/4688463
+- 聯發科宣布終止收購英特爾旗下電源管理晶片產品線 | MoneyDJ | https://www.moneydj.com/kmdj/news/newsviewer.aspx?a=141ae837-a416-45b0-b7c2-95f412ab1b83
+Engine synthesis (verbatim extract):
+"聯發科原先集團旗下立錡規劃以8,500萬美元取得英特爾的Enpirion電源管理IC產品線，不過聯發科於27日公告，雙方已經合意終止交易，且不影響雙方其他商務合作。"
+"Enpirion為英特爾現場可程式化邏輯閘陣列(FPGA)事業群中負責電源管理晶片的部門。聯發科於2020年11月16日代立錡公告擬斥資8,500萬美元，收購Enpirion電源管理晶片產品線，該交易原預計於去年底前完成，不過，聯發科宣布，雙方已合意終止交易。"
+"聯發科強調，本次變動將不影響目前雙方其他商務合作。"

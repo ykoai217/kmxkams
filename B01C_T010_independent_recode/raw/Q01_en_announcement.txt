@@ -1,0 +1,16 @@
+CAPTURE TYPE: search-index result list and engine synthesis (NOT a source body). WebFetch to all hosts was egress-blocked.
+Retrieved: 2026-09-27
+Query: Richtek Intel Enpirion power management acquisition $85 million MediaTek
+Links:
+- Mediatek to acquire assets relating to power management from Intel | https://evertiq.com/design/49123
+- Intel sells Enpirion power management and controller product line to Richtek for $85M - SiliconANGLE | https://siliconangle.com/2020/11/18/intel-sells-enpirion-power-management-controller-product-line-richtek-85m/
+- MediaTek acquires Intel's power-management chip biz for $85 million | Business Standard | https://www.business-standard.com/article/technology/mediatek-acquires-intel-s-power-management-chip-biz-for-85-million-120111800390_1.html
+- Intel Sells Its Power Management Chip Business, Enpirion, to Mediatek for $85 Million | TechPowerUp | https://www.techpowerup.com/274833/intel-sells-its-power-management-chip-business-enpirion-to-mediatek-for-usd-85-million
+- MediaTek buys Intel Enpirion power management chip business - TelecomLead | https://www.telecomlead.com/telecom-chips/mediatek-buys-intel-enpirion-power-management-chip-business-97745
+- MediaTek acquires Intel's Enpirion Power Solutions business for $85 million - Gizmochina | https://www.gizmochina.com/2020/11/17/mediatek-acquires-intel-enpirion-power-solutions-business/
+- MediaTek subsidiary Richtek agrees to acquire Intel's power management and controller product line Enpirion for $85M (Dr. Ian Cutress/AnandTech) | https://mainstagenews.app/2020/11/19/...
+Engine synthesis (verbatim extract):
+"MediaTek, via its Richtek Technology subsidiary, acquired assets related to the power management solutions product line sold under the Enpirion brand owned by Intel for USD 85 million."
+"Enpirion was founded in 2001 by a team of technology experts from Bell Laboratories ... has been manufacturing PowerSoCs in high volume since 2005. Enpirion was acquired by Altera Corp. for $140 million in 2013; Altera was then acquired by Intel for $16.7 billion in 2015."
+"The purpose behind the acquisition was to expand the overall product portfolio and provide enterprise level high frequency, high efficiency power management devices for FPGAs, SoCs, CPUs, and ASICs. The company had already obtained orders from Google to integrate the Enpirion product line."
+"MediaTek expected the transaction to close by 4Q20, with the actual closing date depending on the completion of certain legal procedures."

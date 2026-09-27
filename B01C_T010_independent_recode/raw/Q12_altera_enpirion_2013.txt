@@ -1,0 +1,9 @@
+CAPTURE TYPE: search-index result list and engine synthesis (NOT a source body).
+Retrieved: 2026-09-27
+Query: Altera acquires Enpirion $140 million 2013 PowerSoC FPGA
+Links:
+- ALTERA CORP Form 8-K FY2013 | https://www.sec.gov/Archives/edgar/data/0000768251/000076825113000031/a2013q28-kerexhibit.htm
+- Altera Acquires Enpirion for $140 Million, Forms Power Business Unit | EEPower | https://eepower.com/news/altera-acquires-enpirion-for-140-million-forms-power-business-unit/
+Engine synthesis (verbatim extract):
+"Altera Corporation announced it has signed a definitive merger agreement to acquire Enpirion, Inc. ... PowerSoCs ... for $140 million. The announcement was made on May 14, 2013."
+"Altera projected $35 million in revenue from the acquired Enpirion products in 2014."

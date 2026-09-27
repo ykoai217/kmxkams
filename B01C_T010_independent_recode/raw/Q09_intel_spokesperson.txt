@@ -1,0 +1,9 @@
+CAPTURE TYPE: search-index result list and engine synthesis (NOT a source body).
+Retrieved: 2026-09-27
+Query: Intel Enpirion Programmable Solutions Group divest power business 2020 statement spokesperson
+Links:
+- SiliconANGLE 2020-11-18 | https://siliconangle.com/2020/11/18/intel-sells-enpirion-power-management-controller-product-line-richtek-85m/
+- Gizmochina | https://www.gizmochina.com/2020/11/17/mediatek-acquires-intel-enpirion-power-solutions-business/
+- TechPowerUp | https://www.techpowerup.com/274833/intel-sells-its-power-management-chip-business-enpirion-to-mediatek-for-usd-85-million
+Engine synthesis (verbatim extract):
+"An Intel spokesperson stated that the transaction would 'enable Intel's Programmable Solutions Group to focus on its core FPGA business and increase investment in high-growth opportunities that help position Intel to win key transitions to support 5G, edge computing, artificial intelligence and the cloud.'"

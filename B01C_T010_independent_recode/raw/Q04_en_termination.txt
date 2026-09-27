@@ -1,0 +1,10 @@
+CAPTURE TYPE: search-index result list and engine synthesis (NOT a source body).
+Retrieved: 2026-09-27
+Query: MediaTek Richtek Intel Enpirion deal terminated mutual agreement 2021
+Links:
+- MediaTek terminates deal to acquire assets related to PWM IC from Intel | DIGITIMES | https://www.digitimes.com/news/a20210729VL201.html
+- Enpirion discontinued - Intel Community | https://community.intel.com/t5/Intel-Enpirion-Power-Solutions/Enpirion-discontinued/td-p/1317197
+- MediaTek terminates acquisition of Intel's PMIC business - SemiMedia | https://www.semimedia.cc/10352.html
+Engine synthesis (verbatim extract):
+"MediaTek announced that on behalf of subsidiary Richtek Technology, its agreement with Intel to acquire assets related to the power management solutions product line sold under the Enpirion brand owned by Intel and its subsidiaries has been terminated."
+"MediaTek stated that the termination of the merger will not have a significant impact on the company, nor will it affect other current business cooperation between the two parties."

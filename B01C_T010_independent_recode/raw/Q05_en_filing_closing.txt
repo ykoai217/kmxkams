@@ -1,0 +1,9 @@
+CAPTURE TYPE: search-index result list and engine synthesis (NOT a source body).
+Retrieved: 2026-09-27
+Query: "Enpirion" Richtek MediaTek announcement "fourth quarter" closing legal procedures FPGAs SoCs CPUs ASICs enterprise
+Links:
+- MediaTek to acquire assets related to PWM IC from Intel | DIGITIMES | https://www.digitimes.com/news/a20201117VL200.html
+- MediaTek terminates deal to acquire assets related to PWM IC from Intel | DIGITIMES | https://www.digitimes.com/news/a20210729VL201.html
+Engine synthesis (verbatim extract):
+"According to a filing with the Taiwanese stock exchange, MediaTek expected the transaction to close by 4Q20, however, the actual closing date still depended on the completion of certain legal procedures."
+"The purpose behind the acquisition was to expand the overall product portfolio to 'provide enterprise level high frequency, high efficiency power management devices for FPGAs, SoCs, CPUs, and ASICs.'"

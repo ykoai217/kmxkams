@@ -1,0 +1,14 @@
+edge_id,sample_id,from_claim_id,to_claim_id,edge_type,source_ids,rationale
+E01,T010,C02,C03,creates,S07,[E4] Market growth in DC/enterprise compute makes Richtek's DC absence a deficit (hypothesis).
+E02,T010,C03,C04,activates,S07,[E1] CEO links DC absence directly to the deal as a DC entry point.
+E03,T010,C01,C04,selects,S16,[E4] Strategic-corporate parent selects the operating-motive layer.
+E04,T010,C04,C12,requires,S02;S06,[E1] Segment entry requires control of the enterprise power product line.
+E05,T010,C05,C12,requires,S02,[E1] Product-scope expansion requires the Enpirion product family.
+E06,T010,C06,C13,requires,S02,[E4] Technology motive would require IP/designs (perimeter unverified).
+E07,T010,C12,C14,realises,S07,[E4] Owning an existing qualified product line compresses time to DC design-ins.
+E08,T010,C12,C15,realises,S07,[E4] Product line could be cross-sold with group ASIC/server offers.
+E09,T010,C07,C09,creates,S08,[E1] Intel's non-core exit creates the carve-out situation.
+E10,T010,C09,C10,affects,S02;S13,[E1] Carve-out situation shapes the asset-purchase form.
+E11,T010,C09,C11,affects,S02;S08,[E1] Carve-out situation shapes the separation form.
+E12,T010,C24,C04,refutes,,[E5] Organic build in time would refute the segment-entry-by-acquisition thesis; untested.
+E13,T010,C25,C04,refutes,S11,[E5] Partnership sufficiency would refute control necessity; untested.

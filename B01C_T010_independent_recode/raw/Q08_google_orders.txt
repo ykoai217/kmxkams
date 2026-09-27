@@ -1,0 +1,11 @@
+CAPTURE TYPE: search-index result list and engine synthesis (NOT a source body).
+Retrieved: 2026-09-27
+Query: Enpirion Richtek "Google" orders PowerSoC MediaTek 2020
+Links:
+- SiliconANGLE 2020-11-18 | https://siliconangle.com/2020/11/18/intel-sells-enpirion-power-management-controller-product-line-richtek-85m/
+- Gizchina 2020-11-17 | https://www.gizchina.com/2020/11/17/mediatek-announces-the-85-million-acquisition-of-intels-enpirion-power-chip-business/
+- SMM news.metal.com | https://news.metal.com/newscontent/101319742-MediaTek-spends-85-million-to-acquire-Intels-power-management-chip-business
+Engine synthesis (verbatim extract):
+"Enpirion has been manufacturing PowerSoCs in high volume since 2005. The company has already obtained orders from Google LLC to integrate the Enpirion product line."
+"MediaTek has been actively developing its ASIC business recently and has also obtained an order from Google to integrate the Intel Enpirion product line. This can provide a more complete solution for its layout in the server market."
+NOTE: subject of 'the company' is ambiguous (Enpirion vs MediaTek). Not used as evidence.

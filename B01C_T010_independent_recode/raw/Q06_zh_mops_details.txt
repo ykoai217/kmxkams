@@ -1,0 +1,13 @@
+CAPTURE TYPE: search-index result list and engine synthesis (NOT a source body).
+Retrieved: 2026-09-27
+Query: 聯發科 代子公司 立錡 公告 取得 Intel Corporation 資產 2020/11/16 董事會 交易總金額
+Links:
+- 聯發科近台幣 24 億元，收購英特爾旗下 Enpirion 電源管理晶片產品線 | TechNews | https://finance.technews.tw/2020/11/17/mediatek-will-merger-intel-enpirion/
+- 聯發科旗下立錡 8,500萬美收購英特爾轉投資Enpirion電源管理IC產品線 | 中時 | https://www.chinatimes.com/realtimenews/20201117002026-260410
+- 聯發科將斥24億元 併購Intel旗下電源管理晶片產品資產 | Anue鉅亨 | https://news.cnyes.com/news/id/4543260
+- 立錡擬收購Enpirion電源管理IC產品線，交易額8,500萬美元 | SIPO | https://www.sipo.org.tw/industry-overview/industry-news/item/2168-2020111801.html
+Engine synthesis (verbatim extract):
+"聯發科於2020年11月16日晚間公告，將斥資8,500萬美元（約新台幣23.89億元）的資金，透過子公司立錡科技收購英特爾旗下的Enpirion電源管理晶片產品線相關資產。"
+"交易總金額：約8,500萬美元，折合新台幣約24.24億元"
+"交易完成時間：相關交易完成日期暫定2020年第4季，而實際日期則是待相關法律程序完備後交割"
+"目的：拓展產品線，提供使用在FPGA、SoC、CPU、ASIC上的整合式高頻、高效率的電源解決方案至企業級系統應用，以擴大經營規模及提升經營績效與競爭力"

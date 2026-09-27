@@ -1,0 +1,13 @@
+CAPTURE TYPE: search-index result list and engine synthesis (NOT a source body).
+Retrieved: 2026-09-27
+Queries: (a) Intel Enpirion discontinued end of life product discontinuance notification 2021 2022; (b) Intel PDN2133 Enpirion discontinuance September 2021
+Links:
+- Intel Community: Enpirion discontinued | https://community.intel.com/t5/Intel-Enpirion-Power-Solutions/Enpirion-discontinued/td-p/1317197
+- Intel Community: EN6347QI Product Discontinuance PDN2133 | https://community.intel.com/t5/Intel-Enpirion-Power-Solutions/EN6347QI-Product-Discontinuance-PDN2133/td-p/1439140
+- Intel PCN 118505-02 Product Discontinuance, End of Life, revision: support all existing last time buy backlog with NCNR terms | https://www.intel.com/content/www/us/en/content-details/807327/...
+- Intel Enpirion legacy support | https://www.intel.com/content/www/us/en/support/programmable/support-resources/devices/enpirion-legacy-support.html
+Engine synthesis (verbatim extract):
+"Intel discontinued the Intel Enpirion Power Solutions product line, with details provided in product discontinuance notification PDN2133."
+"According to bulletin PDN 2133 released on 09/17/2021, the final order acceptance deadline was 3/18/2022 and the last time shipment was scheduled for 3/31/2023."
+"a revised discontinuance notice (PCN 118505-02) was issued on July 1, 2022, to communicate that Intel could support all existing last time buy backlog with NCNR ... terms."
+"Richtek apparently bought this product line, but was also not supporting these parts." [forum-user statement; not used as evidence]

@@ -1,0 +1,10 @@
+CAPTURE TYPE: search-index result list and engine synthesis (NOT a source body).
+Retrieved: 2026-09-27
+Query: MediaTek completes acquisition of Richtek 100% delisted 6286 2016
+Links:
+- MediaTek Announces Tender Offer for Richtek | Design & Reuse | https://www.design-reuse.com/news/38176/mediatek-richtek-acquisition.html
+- Mediatek Acquires Richtek To Expand Reach | AmCham Taiwan Topics | https://topics.amcham.com.tw/2015/10/mediatek-acquires-richtek-to-expand-reach/
+- MediaTek Pursues PMIC Market with Richtek Buy | EE Times | https://www.eetimes.com/mediatek-pursues-pmic-market-with-richtek-buy/
+Engine synthesis (verbatim extract):
+"MediaTek announced its acquisition of Richtek Technology Corporation (TSE: 6286) on September 7, 2015 ... Richtek became a wholly subsidiary of MediaTek after the completion of the acquisition in the second quarter of 2016."
+"When the acquisition was completed, Richtek was delisted from the Taiwan Stock Exchange and operated as a fully owned subsidiary of MediaTek."

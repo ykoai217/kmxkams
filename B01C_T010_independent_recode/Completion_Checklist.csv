@@ -1,0 +1,14 @@
+Check,Required,DR self-check result,Notes
+Manifest rows readable,10 exact rows,PASS (1/1),Packet scope is one candidate (T010); template default of 10 does not apply.
+Coding Output rows,10,PASS (1/1),Single-candidate packet.
+Every Sample ID preserved,10/10 exact,PASS (1/1),T010
+Every MI ID preserved,10/10 exact,PASS (1/1),SPTRD1784042; SOURCE fields unchanged from template
+Identity conflicts logged,100% of conflicts,PASS,"RES01, RES02, RES10"
+Claim Evidence coverage,Every non-N/A coded concept has a claim row,PASS,26 claim rows incl. E5 facet rows
+Source Log coverage,Every Source ID used exists in Source Log,PASS,Script-asserted
+Weak source used as evidence,0,PASS (0),"S18, S19 excluded by assertion; unread primaries S01, S10 never cited in claims"
+Causal edges,Evidence-backed for every materially coded deal,PASS,13 edges; all in permitted grammar (script-asserted)
+Residuals,All identity/evidence/ontology problems logged,PASS,10 residuals
+QC reproducible,"Yes, from output rows",PASS,build.py included; raw captures hashed
+Output format,.xlsx or exact-schema CSV; no PDF substitute,PASS,Exact-schema CSV (headers copied from packet templates)
+Genuine source bodies used,Primary/original-language bodies,FAIL,Egress block: snippets only (RES03). Confidence capped at M. Output is PROVISIONAL on this criterion.
