@@ -1,0 +1,13 @@
+﻿Check,Required,DR self-check result,Notes
+Manifest rows readable,10 exact rows,,
+Coding Output rows,10,,
+Every Sample ID preserved,10/10 exact,,
+Every MI ID preserved,10/10 exact,,
+Identity conflicts logged,100% of conflicts,,
+Claim Evidence coverage,Every non-N/A coded concept has a claim row,,
+Source Log coverage,Every Source ID used exists in Source Log,,
+Weak source used as evidence,0,,
+Causal edges,Evidence-backed for every materially coded deal,,
+Residuals,All identity/evidence/ontology problems logged,,
+QC reproducible,"Yes, from output rows",,
+Output format,.xlsx or exact-schema CSV; no PDF substitute,,

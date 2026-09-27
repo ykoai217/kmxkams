@@ -1,0 +1,11 @@
+source_id: S15
+url: https://thebambooworks.com/management-led-group-advances-in-vnet-bidding-war-as-big-names-line-up-to-play/
+title: Management-Led Group Advances in VNET Bidding War, as Big Names Line Up to Play
+publisher: Bamboo Works (also Benzinga / Seeking Alpha syndication)
+publication_date: 2022-11-01
+retrieved_at: 2026-09-27
+access: snippet
+capture_method: WebSearch result summary (page fetch blocked by egress policy)
+
+KEY FACTS AS CAPTURED:
+A government-backed fund reportedly lined up to support the management-led bid; Hina Group bid US$8/ADS; MBK, PAG, CDH reportedly weighed bids; no deal materialised.

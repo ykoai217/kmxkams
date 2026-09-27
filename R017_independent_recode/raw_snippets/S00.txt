@@ -1,0 +1,11 @@
+source_id: S00
+url: packet://raw_deals.jsonl#R017
+title: Sealed packet raw record R017 (S&P MI SPTRD1982232 / CIQ IQTR1800442048)
+publisher: S&P Global Market Intelligence (via sealed packet)
+publication_date: 2026-09-27
+retrieved_at: 2026-09-27
+access: Full record in packet
+capture_method: WebSearch result summary (page fetch blocked by egress policy)
+
+KEY FACTS AS CAPTURED:
+Deal Summary: Chen non-binding proposal 13 Sep 2022, US$8.2/ADS (~US$1.3667/sh), 'US$1.2 billion'; equity+debt; Kroll/Davis Polk to special committee 14 Oct 2022; cancelled 10 Jul 2024. Seller field 'Best Ventures Limited'; Buyer null; Value 2,897.450366 = Implied EV; Sponsor Backed Yes; Ultimate parent 'Asia Investment Fund Management Limited'.

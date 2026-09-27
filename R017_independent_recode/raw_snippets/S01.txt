@@ -1,0 +1,11 @@
+source_id: S01
+url: https://www.prnewswire.com/news-releases/vnet-announces-receipt-of-preliminary-non-binding-proposal-to-acquire-all-of-its-shares-and-formation-of-special-committee-to-review-the-proposal-301623081.html
+title: VNET Announces Receipt of Preliminary Non-Binding Proposal to Acquire All of Its Shares and Formation of Special Committee to Review the Proposal
+publisher: VNET Group, Inc. (issuer press release; PR Newswire / ir.vnet.com / Stockhouse mirror)
+publication_date: 2022-09-13
+retrieved_at: 2026-09-27
+access: snippet
+capture_method: WebSearch result summary (page fetch blocked by egress policy)
+
+KEY FACTS AS CAPTURED:
+Board received preliminary non-binding proposal letter dated 13 Sep 2022 from Josh Sheng Chen, founder and executive chairman, to acquire all outstanding ordinary shares for US$8.20/ADS (~US$1.3667/ordinary share); special committee of three independent directors formed to evaluate it and other strategic alternatives.

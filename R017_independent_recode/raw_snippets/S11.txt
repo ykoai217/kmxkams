@@ -1,0 +1,11 @@
+source_id: S11
+url: https://www.globenewswire.com/news-release/2021/03/24/2198601/25408/en/21Vianet-Announces-Signing-of-Definitive-Agreement-to-Repurchase-Approximately-US-260-million-of-Class-B-Ordinary-Shares-from-Tuspark.html
+title: 21Vianet Announces Signing of Definitive Agreement to Repurchase Approximately US$260 million of Class B Ordinary Shares from Tuspark; 21Vianet's Founder and Executive Chairman to Expand Ownership in 21Vianet
+publisher: 21Vianet Group, Inc. (GlobeNewswire; 6-K Ex. 99.1)
+publication_date: 2021-03-24
+retrieved_at: 2026-09-27
+access: snippet
+capture_method: WebSearch result summary (page fetch blocked by egress policy)
+
+KEY FACTS AS CAPTURED:
+Mar 2021: company repurchased 48,634,493 Class B shares from Tuspark Innovation Venture Ltd for ~US$260m at US$5.346/share (US$32.076/ADS); Tuspark also agreed to sell shares to Beacon Capital Group Inc. (Chen-affiliated) at the same price. Aug 2021: Beacon to buy 17,140,898 Class A shares from Tuspark for ~US$50m.

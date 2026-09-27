@@ -1,0 +1,11 @@
+source_id: S07
+url: https://www.sec.gov/Archives/edgar/data/1508475/000110465923050330/vnet-20221231x20f.htm
+title: VNET Group, Inc. Form 20-F for FY2022
+publisher: VNET Group, Inc. via SEC EDGAR
+publication_date: 2023-04-25
+retrieved_at: 2026-09-27
+access: snippet
+capture_method: WebSearch result summary (page fetch blocked by egress policy)
+
+KEY FACTS AS CAPTURED:
+Special committee evaluating both the April 2022 (Hina/Industrial Bank) and September 2022 (Chen) proposals; May 2022 conclusive HFCAA identification; Aug 2022 PCAOB protocol; Dec 2022 PCAOB vacated determinations; US$600,000,000 convertible senior notes under the 2026 Indenture.

@@ -1,0 +1,11 @@
+source_id: S02
+url: https://www.sec.gov/Archives/edgar/data/1508475/000110465922099681/tm2225763d1_ex99-1.htm
+title: Form 6-K Exhibit 99.1 (proposal letter annex), VNET Group, Inc.
+publisher: VNET Group, Inc. / Josh Sheng Chen (letter author) via SEC EDGAR
+publication_date: 2022-09-13
+retrieved_at: 2026-09-27
+access: snippet
+capture_method: WebSearch result summary (page fetch blocked by egress policy)
+
+KEY FACTS AS CAPTURED:
+'I believe the Proposal is a highly attractive offer to the Company's shareholders'; premium ~74.8% to 12 Sep 2022 ADS close and ~64% to 30-trading-day VWAP; 'The MBO Consortium will fund the Transaction with a combination of equity and debt financing'; commitments expected to be in place when definitive agreements are signed.

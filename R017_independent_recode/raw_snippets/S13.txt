@@ -1,0 +1,11 @@
+source_id: S13
+url: https://finance.sina.com.cn/jjxw/2024-07-30/doc-incfwiqk8313139.shtml
+title: 世纪互联私有化搁浅始末：从流动性困局到国资混改“拆弹” (Securities Times, republished by Sina Finance)
+publisher: 证券时报 (Securities Times), reporter 王小伟; Sina Finance
+publication_date: 2024-07-30
+retrieved_at: 2026-09-27
+access: snippet
+capture_method: WebSearch result summary (page fetch blocked by egress policy)
+
+KEY FACTS AS CAPTURED:
+Privatisation withdrawal shelved a return to A-share/HK listing; VNET valued below peers GDS (万国数据) and Chindata (秦淮数据); Chen reportedly judged it an opportune time to privatise to escape short-term profit cycles; behind it a founder liquidity crisis linked to Tus-Holdings (启迪控股) bond defaults (2021-22); Chen pledged shares; resolved by July 2024 via Shandong state capital.

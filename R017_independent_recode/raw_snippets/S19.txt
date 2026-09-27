@@ -1,0 +1,11 @@
+source_id: S19
+url: https://www.prnewswire.com/news-releases/vnet-reports-unaudited-second-quarter-2022-financial-results-301614819.html
+title: VNET Reports Unaudited Second Quarter 2022 Financial Results
+publisher: VNET Group, Inc. (PR Newswire; 6-K)
+publication_date: 2022-08-23
+retrieved_at: 2026-09-27
+access: snippet
+capture_method: WebSearch result summary (page fetch blocked by egress policy)
+
+KEY FACTS AS CAPTURED:
+Cash, cash equivalents and restricted cash RMB3.62bn (US$539.9m) at 30 Jun 2022; Q2 2022 net revenues RMB1.72bn (US$257.5m); adjusted EBITDA RMB486.9m (US$72.7m).

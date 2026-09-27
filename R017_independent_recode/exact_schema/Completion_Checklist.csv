@@ -1,0 +1,14 @@
+﻿Check,Required,DR self-check result,Notes
+Manifest rows readable,1 exact row (single-candidate packet; template text says 10),PASS,raw_deals.jsonl and batch_manifest.jsonl each 1 row; packet hashes verified against MANIFEST.json
+Coding Output rows,1 (single-candidate packet),PASS,"1 row, template header preserved exactly"
+Every Sample ID preserved,1/1 exact,PASS,R017
+Every MI ID preserved,1/1 exact,PASS,SPTRD1982232
+Identity conflicts logged,100% of conflicts,PASS,"RES-01, RES-02, RES-03, RES-04, RES-10, RES-11"
+Claim Evidence coverage,Every non-N/A coded concept has a claim row,PASS,25 claim rows incl. E5 rows for terminal motive and seller motive
+Source Log coverage,Every Source ID used exists in Source Log,PASS,Checked programmatically
+Weak source used as evidence,0,PASS with caveat,No aggregator/incentivised source is sole support for any E1-E3 claim; S10/S15 used only as corroboration or for E4/E5. All sources snippet-only (RES-05)
+Causal edges,Evidence-backed for every materially coded deal,PASS,19 permitted-grammar edges; gaps in RES-09
+Residuals,All identity/evidence/ontology problems logged,PASS,12 residuals
+QC reproducible,"Yes, from output rows",PASS,build_outputs.py regenerates all CSVs
+Output format,.xlsx or exact-schema CSV; no PDF substitute,PASS,"Exact-schema CSV (UTF-8 BOM, CRLF, template headers)"
+Source-body verification,Genuine bodies for E1 claims,INCOMPLETE,Egress policy blocked all page fetches; evidence is search-index level (RES-05)

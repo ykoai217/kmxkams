@@ -1,0 +1,11 @@
+source_id: S10
+url: https://investigations.bergermontague.com/vnet-group/
+title: VNET Group securities class action notices (Berger Montague; Bragar Eagel & Squire; Glancy Prongay & Murray)
+publisher: Plaintiff law firms (GlobeNewswire / PR Newswire / investigations.bergermontague.com)
+publication_date: 2024-01-05
+retrieved_at: 2026-09-27
+access: snippet
+capture_method: WebSearch result summary (page fetch blocked by egress policy)
+
+KEY FACTS AS CAPTURED:
+On 19 Aug 2021 Chen and his companies entered a US$50.25m margin loan facility with Bold Ally, pledging shares of GenTao, Sunrise and Beacon Capital Group; Chen, GenTao and affiliates beneficially owned ~78.52m VNET shares; complaint alleges non-disclosure of GenTao default risk; ADS fell 17.8% to US$5.02 on 14 Feb 2023.

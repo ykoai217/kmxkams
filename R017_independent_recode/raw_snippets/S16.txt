@@ -1,0 +1,11 @@
+source_id: S16
+url: https://www.mingtiandi.com/real-estate/data-centres/vnet-boss-scraps-takeover-bid-as-data-centre-firm-stays-listed/
+title: Vnet Boss Scraps Takeover Bid as Data Centre Firm Stays Listed; China's Shandong Hi-Speed Buys Control of Vnet Data Centres
+publisher: Mingtiandi
+publication_date: 2024-07-12
+retrieved_at: 2026-09-27
+access: snippet
+capture_method: WebSearch result summary (page fetch blocked by egress policy)
+
+KEY FACTS AS CAPTURED:
+Interested parties included Hina/Industrial Bank, MBK, Chen, CDH, PAG; only Hina/Industrial Bank and Chen submitted confirmed bids; SDHG held 41.2% by end-Feb 2024.

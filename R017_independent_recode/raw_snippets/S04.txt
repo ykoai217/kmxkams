@@ -1,0 +1,11 @@
+source_id: S04
+url: https://www.prnewswire.com/news-releases/vnet-announces-appointment-of-independent-financial-advisor-and-legal-counsel-to-the-special-committee-301650144.html
+title: VNET Announces Appointment of Independent Financial Advisor and Legal Counsel to the Special Committee
+publisher: VNET Group, Inc. (PR Newswire)
+publication_date: 2022-10-14
+retrieved_at: 2026-09-27
+access: snippet (headline)
+capture_method: WebSearch result summary (page fetch blocked by egress policy)
+
+KEY FACTS AS CAPTURED:
+Special committee retained independent financial advisor and legal counsel (Kroll; Davis Polk per S00).

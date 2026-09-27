@@ -1,0 +1,11 @@
+source_id: S12
+url: https://www.prnewswire.com/news-releases/vnet-announces-us299-million-strategic-investment-from-shandong-hi-speed-holdings-group-limited-301990587.html
+title: VNET Announces US$299 Million Strategic Investment from Shandong Hi-Speed Holdings Group Limited; completion release; SDHG Schedule 13D
+publisher: VNET Group, Inc. (PR Newswire); Shandong Hi-Speed Holdings Group (13D filer)
+publication_date: 2023-11-27
+retrieved_at: 2026-09-27
+access: snippet
+capture_method: WebSearch result summary (page fetch blocked by egress policy)
+
+KEY FACTS AS CAPTURED:
+Success Flow (US$209.3m) and Choice Faith (US$89.7m), beneficially owned by SDHG, subscribe new Class A shares; ~42% of shares / ~35.7% voting; investor rights agreement with VNET and a voting and consortium agreement with Chen and his vehicles (Founder Parties); 3-year lock-up on Success Flow; completed 28 Dec 2023.

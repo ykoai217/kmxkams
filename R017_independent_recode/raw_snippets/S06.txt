@@ -1,0 +1,11 @@
+source_id: S06
+url: https://www.prnewswire.com/news-releases/vnet-receives-unsolicited-preliminary-non-binding-proposal-to-acquire-all-of-its-shares-301522673.html
+title: VNET Receives Unsolicited Preliminary Non-Binding Proposal to Acquire All of Its Shares
+publisher: VNET Group, Inc. (PR Newswire; 6-K Ex. 99.1)
+publication_date: 2022-04-11
+retrieved_at: 2026-09-27
+access: snippet
+capture_method: WebSearch result summary (page fetch blocked by egress policy)
+
+KEY FACTS AS CAPTURED:
+Unsolicited preliminary non-binding proposal from The Hina Group and Industrial Bank Co., Ltd., Shanghai Branch to acquire all outstanding ordinary shares for US$8.00/ADS (~US$1.3333/share) in cash.

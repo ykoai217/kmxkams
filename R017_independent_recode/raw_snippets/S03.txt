@@ -1,0 +1,11 @@
+source_id: S03
+url: https://www.sec.gov/Archives/edgar/data/1508475/000110465922099826/tm2225865d1_sc13da.htm
+title: Schedule 13D/A (Amendment No. 1) by Sheng (Josh) Chen and affiliates re VNET Group, Inc.
+publisher: Sheng Chen, GenTao Capital Ltd, Fast Horse Technology Ltd, Sunrise Corporate Holding Ltd, Personal Group Ltd (filers) via SEC EDGAR
+publication_date: 2022-09-14
+retrieved_at: 2026-09-27
+access: snippet
+capture_method: WebSearch result summary (page fetch blocked by egress policy)
+
+KEY FACTS AS CAPTURED:
+Founder delivered a preliminary, non-binding management-team-led proposal to acquire all outstanding shares not already owned by the Founder and his affiliates for US$8.20/ADS; Founder and rest of management intend to form the 'MBO Consortium'; equity and debt financing to be in place at definitive agreements. Holdings: GenTao 48,515,635 Class A; Fast Horse 19,670,117 Class B; Sunrise 8,087,875 Class B; Personal Group 4 Class A, 769,486 Class B, 60,000 Class C; 1,479,660 Class A issuable on RSU vesting. Chen sole shareholder of each vehicle.

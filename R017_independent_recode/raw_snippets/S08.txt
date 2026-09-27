@@ -1,0 +1,11 @@
+source_id: S08
+url: https://www.prnewswire.com/news-releases/vnet-provides-update-on-its-status-under-the-holding-foreign-companies-accountable-act-301540560.html
+title: VNET Provides Update on its Status under the Holding Foreign Companies Accountable Act
+publisher: VNET Group, Inc. (PR Newswire / ir.vnet.com)
+publication_date: 2022-05-26
+retrieved_at: 2026-09-27
+access: snippet
+capture_method: WebSearch result summary (page fetch blocked by egress policy)
+
+KEY FACTS AS CAPTURED:
+On 26 May 2022 VNET was conclusively identified by the SEC as a Commission-Identified Issuer under the HFCAA because its FY2021 20-F audit report was issued by Ernst & Young Hua Ming LLP.

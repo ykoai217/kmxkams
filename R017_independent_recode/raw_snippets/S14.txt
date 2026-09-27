@@ -1,0 +1,11 @@
+source_id: S14
+url: https://m.yicai.com/news/101683674.html
+title: 私有化期间因股权收购款惹官司，世纪互联有钱不付还是资金紧张？ (Yicai; Sina/Sohu reposts)
+publisher: 第一财经 Yicai
+publication_date: 2023-02-23
+retrieved_at: 2026-09-27
+access: snippet
+capture_method: WebSearch result summary (page fetch blocked by egress policy)
+
+KEY FACTS AS CAPTURED:
+Proposal valued VNET at ~US$1.2bn (~RMB 8.5bn); Fitch considered privatisation would trigger immediate repayment of VNET's US$600m notes; former holders of Beijing Yunsi Chanxiang sued over unpaid transfer consideration (acquisition completed 15 Jul 2021); cash RMB3.531bn at end-Sep 2022.

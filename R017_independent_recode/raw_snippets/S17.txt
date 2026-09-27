@@ -1,0 +1,11 @@
+source_id: S17
+url: https://www.sec.gov/Archives/edgar/data/1722608/000095017025041241/xslSCHEDULE_13G_X01/primary_doc.xml
+title: Schedule 13G filed by Best Ventures Limited (Xiaomi Corporation) in respect of another issuer (CIK 1722608)
+publisher: Best Ventures Limited / Xiaomi Corporation via SEC EDGAR
+publication_date: 2025-01-01
+retrieved_at: 2026-09-27
+access: snippet
+capture_method: WebSearch result summary (page fetch blocked by egress policy)
+
+KEY FACTS AS CAPTURED:
+Best Ventures Limited is a BVI company beneficially owned and controlled by Xiaomi Corporation; formerly known as Xiaomi Ventures Limited.

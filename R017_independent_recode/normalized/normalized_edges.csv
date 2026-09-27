@@ -1,0 +1,20 @@
+﻿edge_id,sample_id,from_claim_id,to_claim_id,edge_type,source_ids,rationale
+E01,R017,R017-C10,R017-C09,alters,S08;S20;S13,[E4] HFCAA conclusive identification contributes to the China-ADR de-rating regime.
+E02,R017,R017-C10,R017-C04,constrains,S08;S20,[E4] Policy state constrains the US-listing situation (delisting risk) that makes VNET cheap to take private. Grammar note: PC->SI permitted as 'constrains'; semantic is 'depresses'.
+E03,R017,R017-C04,R017-C05,affects,S01;S06;S11,[E4] Deep discount to private/transaction marks is what creates the public/private arbitrage.
+E04,R017,R017-C04,R017-C13,affects,S01;S02,[E3] Depressed price makes a founder-led take-private feasible at ~US$1.2bn equity.
+E05,R017,R017-C01,R017-C06,selects,S01;S03,[E4] Founder/management archetype selects a financial ownership thesis (no strategic combination available).
+E06,R017,R017-C01,R017-C07,selects,S03,[E4] Founder archetype selects control consolidation.
+E07,R017,R017-C02,R017-C07,activates,S03,[E4] Existing founder stake activates a step-up to full control.
+E08,R017,R017-C03,R017-C07,activates,S09;S10,[E4] Margin-loan pledge over high-vote shares makes securing control more urgent.
+E09,R017,R017-C06,R017-C17,requires,S01,[E4] Financial thesis requires control of the whole operating platform.
+E10,R017,R017-C17,R017-C05,realises,S13,[E4] Owning the platform privately realises the valuation gap (and any relisting).
+E11,R017,R017-C06,R017-C20,implemented through,S02;S03,[E4] Management-led thesis implies standalone continuation.
+E12,R017,R017-C08,R017-C05,distorts,S02;S09,[E4] Possible control-defence purpose distorts the headline price/valuation (74.8% premium without committed funding).
+E13,R017,R017-C11,R017-C13,affects,S06,[E4] Rival US$8.00 bid anchors the founder's US$8.20 price.
+E14,R017,R017-C12,DEAL,triggers,S06;S01,[E4] Rival bid as candidate timing trigger.
+E15,R017,R017-C15,R017-C13,enables,S02;S03,[E1] Proposed equity + debt package is the stated funding route.
+E16,R017,R017-C16,R017-C13,constrains,S07;S14,[E4] Change-of-control repayment of US$600m notes constrains financing.
+E17,R017,R017-C23,R017-C06,refutes,S05;S09;S14,[E4] Leverage infeasibility weakens the financial thesis; consistent with withdrawal.
+E18,R017,R017-C24,R017-C07,refutes,S05;S12,[E4] SDHG PIPE + voting agreement delivered control/funding objectives without a take-private.
+E19,R017,R017-C25,R017-C08,corroborates,S05;S09;S12,"[E4] Revealed sequence (no financing, enforcement, rescue, withdrawal) is consistent with BO-01 but does not discriminate it from C23."

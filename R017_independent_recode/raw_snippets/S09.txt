@@ -1,0 +1,11 @@
+source_id: S09
+url: https://www.businesswire.com/news/home/20230207005947/en/
+title: Bold Ally (Cayman) Limited: Enforcement of up to 76,273,626 Class A ordinary shares (equivalent to 12,712,271 ADSs) of VNET Group, Inc.
+publisher: Bold Ally (Cayman) Limited (lender) via Business Wire / Nasdaq
+publication_date: 2023-02-07
+retrieved_at: 2026-09-27
+access: snippet
+capture_method: WebSearch result summary (page fetch blocked by egress policy)
+
+KEY FACTS AS CAPTURED:
+Following default by GenTao Capital Limited (wholly owned by Chen) under a US$50,250,000 margin loan facility, lender exercised rights over collateral: 48,515,634 Class A (8,085,939 ADSs) and 27,757,992 Class B shares pledged; lender may convert Class B to Class A; if all sold, Chen's voting interest would significantly decrease.

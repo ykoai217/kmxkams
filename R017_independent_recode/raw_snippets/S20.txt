@@ -1,0 +1,11 @@
+source_id: S20
+url: https://pcaobus.org/oversight/international/board-determinations-holding-foreign-companies-accountable-act-hfcaa
+title: PCAOB: Board Determinations Under the HFCAA; issuer risk-factor restatements of HFCAA chronology
+publisher: PCAOB; SEC filings citing HFCAA
+publication_date: 2022-12-15
+retrieved_at: 2026-09-27
+access: snippet
+capture_method: WebSearch result summary (page fetch blocked by egress policy)
+
+KEY FACTS AS CAPTURED:
+HFCAA enacted 18 Dec 2020; Statement of Protocol CSRC/MOF/PCAOB signed 26 Aug 2022; PCAOB vacated its 2021 determinations on 15 Dec 2022.

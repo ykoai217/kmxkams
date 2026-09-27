@@ -1,0 +1,11 @@
+source_id: S05
+url: https://www.prnewswire.com/news-releases/vnet-announces-receipt-of-withdrawal-of-non-binding-offer-by-mr-josh-sheng-chen-and-termination-of-discussion-on-potential-going-private-transactions-302194657.html
+title: VNET Announces Receipt of Withdrawal of Non-binding Offer by Mr. Josh Sheng Chen and Termination of Discussion on Potential Going-Private Transactions
+publisher: VNET Group, Inc. (PR Newswire / ir.21vianet.com / Form 6-K Ex. 99.1)
+publication_date: 2024-07-11
+retrieved_at: 2026-09-27
+access: snippet
+capture_method: WebSearch result summary (page fetch blocked by egress policy)
+
+KEY FACTS AS CAPTURED:
+Special committee received letter dated 10 Jul 2024 from Chen (Founder, Co-Chairperson, interim CEO) that he would not proceed with the 13 Sep 2022 proposal; withdrawn with immediate effect. Given withdrawal and lack of substantive progress on any other going-private transaction, committee ceased evaluation; board dissolved the committee. Chen: 'I withdrew my privatization proposal as I believe that maintaining VNET's listing status is better aligned with the Company's long-term interests given current market conditions.'

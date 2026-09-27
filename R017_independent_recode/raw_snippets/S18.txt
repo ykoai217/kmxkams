@@ -1,0 +1,11 @@
+source_id: S18
+url: https://www.sec.gov/Archives/edgar/data/0001508475/000119312517121355/d305584d20f.htm
+title: 21Vianet Group, Inc. Form 20-F (FY2015/FY2016) major shareholders; US$296m investment from Kingsoft, Xiaomi and Temasek
+publisher: 21Vianet Group, Inc. via SEC EDGAR / ir.21vianet.com
+publication_date: 2016-04-28
+retrieved_at: 2026-09-27
+access: snippet
+capture_method: WebSearch result summary (page fetch blocked by egress policy)
+
+KEY FACTS AS CAPTURED:
+In Jan 2015 Xiaomi Ventures Limited received 6,142,410 Class A and 10,524,257 Class B ordinary shares for US$50m.
