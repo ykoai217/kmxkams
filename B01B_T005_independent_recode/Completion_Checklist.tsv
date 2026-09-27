@@ -1,0 +1,13 @@
+﻿Check	Required	DR self-check result	Notes
+Manifest rows readable	1 exact row	PASS	batch_manifest.jsonl and raw_deals.jsonl each hold 1 row for T005; seal hashes 35/35 verified
+Coding Output rows	1	PASS (status row only)	One row; substantive fields not coded
+Every Sample ID preserved	1/1 exact	PASS	T005
+Every MI ID preserved	1/1 exact	PASS	SPTRD2020327
+Identity conflicts logged	100% of conflicts	INCOMPLETE	Potential conflicts logged as unverified (RES-T005-02); none verified
+Claim Evidence coverage	Every non-N/A coded concept has a claim row	N/A	No concept coded
+Source Log coverage	Every Source ID used exists in Source Log	PASS (vacuous)	No Source IDs used
+Weak source used as evidence	0	PASS	0; snippets held only in Search_Lead_Register as leads
+Causal edges	Evidence-backed for every materially coded deal	N/A	Deal not materially coded
+Residuals	All identity/evidence/ontology problems logged	PASS	RES-T005-01, RES-T005-02
+QC reproducible	Yes, from output rows	PASS	Status reproducible from Residuals and Search_Lead_Register
+Output format	.xlsx or exact-schema CSV; no PDF substitute	PASS	Exact template headers in CSV/TSV/JSONL

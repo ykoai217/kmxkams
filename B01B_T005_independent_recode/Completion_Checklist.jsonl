@@ -1,0 +1,12 @@
+{"Check": "Manifest rows readable", "Required": "1 exact row", "DR self-check result": "PASS", "Notes": "batch_manifest.jsonl and raw_deals.jsonl each hold 1 row for T005; seal hashes 35/35 verified"}
+{"Check": "Coding Output rows", "Required": "1", "DR self-check result": "PASS (status row only)", "Notes": "One row; substantive fields not coded"}
+{"Check": "Every Sample ID preserved", "Required": "1/1 exact", "DR self-check result": "PASS", "Notes": "T005"}
+{"Check": "Every MI ID preserved", "Required": "1/1 exact", "DR self-check result": "PASS", "Notes": "SPTRD2020327"}
+{"Check": "Identity conflicts logged", "Required": "100% of conflicts", "DR self-check result": "INCOMPLETE", "Notes": "Potential conflicts logged as unverified (RES-T005-02); none verified"}
+{"Check": "Claim Evidence coverage", "Required": "Every non-N/A coded concept has a claim row", "DR self-check result": "N/A", "Notes": "No concept coded"}
+{"Check": "Source Log coverage", "Required": "Every Source ID used exists in Source Log", "DR self-check result": "PASS (vacuous)", "Notes": "No Source IDs used"}
+{"Check": "Weak source used as evidence", "Required": "0", "DR self-check result": "PASS", "Notes": "0; snippets held only in Search_Lead_Register as leads"}
+{"Check": "Causal edges", "Required": "Evidence-backed for every materially coded deal", "DR self-check result": "N/A", "Notes": "Deal not materially coded"}
+{"Check": "Residuals", "Required": "All identity/evidence/ontology problems logged", "DR self-check result": "PASS", "Notes": "RES-T005-01, RES-T005-02"}
+{"Check": "QC reproducible", "Required": "Yes, from output rows", "DR self-check result": "PASS", "Notes": "Status reproducible from Residuals and Search_Lead_Register"}
+{"Check": "Output format", "Required": ".xlsx or exact-schema CSV; no PDF substitute", "DR self-check result": "PASS", "Notes": "Exact template headers in CSV/TSV/JSONL"}
