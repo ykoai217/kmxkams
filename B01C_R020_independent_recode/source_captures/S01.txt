@@ -1,0 +1,6 @@
+source_id: S01
+url: https://www.teraco.co.za/news/berkshire-partners-to-invest-in-teraco/
+retrieved_at: 2026-09-27
+access: SEARCH_INDEX_SNIPPET_ONLY: page body fetch refused by session egress policy (HTTP 403 CONNECT); text below is the search tool's returned summary/snippet, not a verbatim source body
+
+On January 24, 2019, Teraco Data Environments announced that Berkshire Partners LLC, a Boston-based investment firm, entered into a definitive agreement to acquire a majority stake in the company. The Permira funds, an existing shareholder, remained a significant investor. Teraco, based in Johannesburg and established in 2008, is the largest provider of datacentre services in Africa. Five high-quality facilities with 30MW of critical power load serving more than 450 clients across five core ecosystems: telecoms, managed service providers, content, enterprise, and financial services. The Permira funds initially backed a Teraco management buyout in December 2014; the business has multiplied its capacity more than six times. Subject to regulatory approval and customary closing conditions; expected close in the first quarter of 2019.

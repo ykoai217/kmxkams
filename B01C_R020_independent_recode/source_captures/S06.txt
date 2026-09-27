@@ -1,0 +1,6 @@
+source_id: S06
+url: https://www.bloomberg.com/news/articles/2019-01-24/berkshire-partners-buys-stake-in-africa-data-center-firm-teraco
+retrieved_at: 2026-09-27
+access: SEARCH_INDEX_SNIPPET_ONLY: page body fetch refused by session egress policy (HTTP 403 CONNECT); text below is the search tool's returned summary/snippet, not a verbatim source body
+
+Berkshire Partners LLC acquired a stake in Teraco Data Environments Pty Ltd., becoming the biggest shareholder in Africa's largest data-center to capitalize on growing demand for internet and cloud-based services on the continent. Teraco was expected to fetch between $600 million and $1 billion, including debt; the value of the transaction wasn't disclosed. Teraco planning to double installed capacity to 60 megawatts in the coming four to five years.

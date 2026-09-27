@@ -1,0 +1,6 @@
+source_id: S11
+url: https://mybroadband.co.za/news/cloud-hosting/293500-teraco-confirms-berkshire-partners-is-its-new-owner.html
+retrieved_at: 2026-09-27
+access: SEARCH_INDEX_SNIPPET_ONLY: page body fetch refused by session egress policy (HTTP 403 CONNECT); text below is the search tool's returned summary/snippet, not a verbatim source body
+
+Teraco confirmed Berkshire entered into an agreement to acquire a majority stake; hosts NAPAfrica, the continent's largest Internet Exchange Point; subject to regulatory approval; expected close Q1 2019.

@@ -1,0 +1,6 @@
+source_id: S12
+url: https://www.bloomberg.com/news/articles/2020-11-03/berkshire-backed-teraco-plans-250-million-african-data-center
+retrieved_at: 2026-09-27
+access: SEARCH_INDEX_SNIPPET_ONLY: page body fetch refused by session egress policy (HTTP 403 CONNECT); text below is the search tool's returned summary/snippet, not a verbatim source body
+
+Teraco, backed by Berkshire Partners, investing $250 million to build Africa's largest single-site facility (JB4) in Johannesburg (Ekurhuleni); two phases; funding from shareholders and main lenders; phase 1 about 19MW expected Q1 2022; phase 2 38MW subject to demand.

@@ -1,0 +1,6 @@
+source_id: S13
+url: https://thetechcapital.com/berkshire-partners-teraco-opens-half-of-1m-sqft-data-centre-expansion/
+retrieved_at: 2026-09-27
+access: SEARCH_INDEX_SNIPPET_ONLY: page body fetch refused by session egress policy (HTTP 403 CONNECT); text below is the search tool's returned summary/snippet, not a verbatim source body
+
+Search summary attributes: 'Berkshire acquired a majority stake in Teraco in early 2019 from Permira Funds, at a valuation of $1 billion.' Attribution to this page is uncertain (summary merged several results).

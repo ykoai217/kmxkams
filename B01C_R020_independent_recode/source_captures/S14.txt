@@ -1,0 +1,6 @@
+source_id: S14
+url: https://www.businesswire.com/news/home/20220103005468/en/Berkshire-Partners-and-Permira-to-Sell-Majority-Stake-in-Teraco-Data-Environments-to-Digital-Realty
+retrieved_at: 2026-09-27
+access: SEARCH_INDEX_SNIPPET_ONLY: page body fetch refused by session egress policy (HTTP 403 CONNECT); text below is the search tool's returned summary/snippet, not a verbatim source body
+
+Berkshire Partners and Permira signed a definitive agreement with Digital Realty to acquire a majority of their respective stakes in Teraco; Berkshire, the Permira funds and van Rooyen Group retain minority interests; Teraco serves more than 550 carrier and enterprise clients.

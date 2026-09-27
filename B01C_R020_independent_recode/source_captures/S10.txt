@@ -1,0 +1,6 @@
+source_id: S10
+url: https://techcentral.co.za/teraco-berkshire-partners-deal/178085/
+retrieved_at: 2026-09-27
+access: SEARCH_INDEX_SNIPPET_ONLY: page body fetch refused by session egress policy (HTTP 403 CONNECT); text below is the search tool's returned summary/snippet, not a verbatim source body
+
+Permira funds remain a 'significant' investor alongside Berkshire; five facilities, 30MW critical power load, about 450 clients including global Internet companies.

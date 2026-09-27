@@ -1,0 +1,6 @@
+source_id: S03
+url: https://berkshirepartners.com/berkshire-partners-to-invest-in-teraco-data-environments/
+retrieved_at: 2026-09-27
+access: SEARCH_INDEX_SNIPPET_ONLY: page body fetch refused by session egress policy (HTTP 403 CONNECT); text below is the search tool's returned summary/snippet, not a verbatim source body
+
+Larry Hamelsky, a Managing Director at Berkshire Partners: "We believe that Teraco is exceptionally well-positioned to capitalize on the fast growth of the Sub-Saharan datacentre infrastructure market given its highly interconnected ecosystems, well-designed facilities, and ability to offer a wide array of deployments." Berkshire Partners LLC, a Boston-based investment firm, entered into a definitive agreement to acquire a majority stake in Teraco; expected close Q1 2019.

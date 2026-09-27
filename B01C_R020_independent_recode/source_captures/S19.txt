@@ -1,0 +1,6 @@
+source_id: S19
+url: https://berkshirepartners.com/private-equity/digital-infrastructure/
+retrieved_at: 2026-09-27
+access: SEARCH_INDEX_SNIPPET_ONLY: page body fetch refused by session egress policy (HTTP 403 CONNECT); text below is the search tool's returned summary/snippet, not a verbatim source body
+
+Berkshire was among founding investors in what became Crown Castle; through the 2010s invested in data centers, fiber, towers and tech services; digital infrastructure strategy targets middle-market shared wireless, data center and network infrastructure.

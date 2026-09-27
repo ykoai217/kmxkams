@@ -1,0 +1,5 @@
+source_id: S22
+url: packet://raw_deals.jsonl
+access: SEALED_PACKET_FILE (full body available)
+
+Deal summary: majority stake from Permira Advisers Ltd. and the management team; Permira and management remain significant investors; subject to Competition Commission approval; advisers Torch Partners (Permira), Skadden (Permira), Barclays (Berkshire), Jamieson (management); features include LBO and New Shareholder Gaining Majority Control; Completion Date 2020-01-24; Ultimate parent shown as Digital Realty Trust.

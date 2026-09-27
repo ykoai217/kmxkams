@@ -1,0 +1,6 @@
+source_id: S09
+url: https://www.datacenterdynamics.com/en/news/berkshire-partners-take-majority-stake-teraco-africas-largest-data-center-company/
+retrieved_at: 2026-09-27
+access: SEARCH_INDEX_SNIPPET_ONLY: page body fetch refused by session egress policy (HTTP 403 CONNECT); text below is the search tool's returned summary/snippet, not a verbatim source body
+
+Headline only plus repetition of release facts per index.

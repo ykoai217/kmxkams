@@ -1,0 +1,6 @@
+source_id: S07
+url: https://www.bloomberg.com/news/articles/2018-11-09/permira-is-said-to-seek-buyers-for-south-africa-data-center-firm
+retrieved_at: 2026-09-27
+access: SEARCH_INDEX_SNIPPET_ONLY: page body fetch refused by session egress policy (HTTP 403 CONNECT); text below is the search tool's returned summary/snippet, not a verbatim source body
+
+Permira working with an adviser to find a buyer for Teraco Data Environments Pty Ltd. (November 2018). Could fetch $600 million to $1 billion including debt, per people familiar. Permira backed a management buyout in 2015 [sic; S01 says December 2014]. Clients include China Telecom Global Ltd. and Amazon Web Services.

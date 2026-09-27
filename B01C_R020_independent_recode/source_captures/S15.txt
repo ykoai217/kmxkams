@@ -1,0 +1,6 @@
+source_id: S15
+url: https://www.sec.gov/Archives/edgar/data/1297996/000155837022000016/dlr-20220103x8k.htm
+retrieved_at: 2026-09-27
+access: SEARCH_INDEX_SNIPPET_ONLY: page body fetch refused by session egress policy (HTTP 403 CONNECT); text below is the search tool's returned summary/snippet, not a verbatim source body
+
+Digital Titan entered definitive agreements with TDE Luxco, BPESAL V2 S.a r.l and other sellers to acquire a majority interest in TDE Investments for approximately $1.7 billion; post-close Digital Titan about 55% of economic interests; about 45% retained by TDE Investments management and existing investors; transaction values Teraco at approximately $3.5 billion; about 3.5% cap rate on projected 2022 cash NOI of about $121 million.

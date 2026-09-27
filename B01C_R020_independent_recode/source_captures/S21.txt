@@ -1,0 +1,6 @@
+source_id: S21
+url: https://www.datacenterdynamics.com/en/news/african-colocation-expert-teraco-changes-ownership/
+retrieved_at: 2026-09-27
+access: SEARCH_INDEX_SNIPPET_ONLY: page body fetch refused by session egress policy (HTTP 403 CONNECT); text below is the search tool's returned summary/snippet, not a verbatim source body
+
+Permira bought 100% of Teraco's equity in partnership with management; Permira's first African investment; completion expected Q1 2015; intended to support growth including expansion into sub-Saharan Africa.

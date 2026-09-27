@@ -1,0 +1,6 @@
+source_id: S18
+url: https://www.teraco.co.za/news/napafrica-ixp-ranks-top-15-globally/
+retrieved_at: 2026-09-27
+access: SEARCH_INDEX_SNIPPET_ONLY: page body fetch refused by session egress policy (HTTP 403 CONNECT); text below is the search tool's returned summary/snippet, not a verbatim source body
+
+As of 2018 NAPAfrica ranked in the top 15 largest global IXPs with 323 members; interconnection and content hub for sub-Saharan Africa.
