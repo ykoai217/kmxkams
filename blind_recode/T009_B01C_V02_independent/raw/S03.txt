@@ -1,0 +1,11 @@
+SOURCE S03 | captured 2026-09-27 via WebSearch tool (search-index summary, not source body)
+URL: https://www.sec.gov/Archives/edgar/data/1553023/000110465921154474/tm2134342-2_defm14a.htm
+
+ACCESS: SEARCH_INDEX_EXCERPT: source body NOT retrieved. Host blocked by session egress policy (sec.gov, businesswire.com, kkr.com, cyrusone.com, global-infra.com, web.archive.org, wikipedia.org all denied). Text is the WebSearch tool's index-derived summary of the page, captured 2026-09-27.
+
+TITLE: CyrusOne Inc. Definitive Proxy Statement (DEFM14A), incl. Background of the Merger; PREM14A
+PUBLISHER: CyrusOne Inc. / SEC EDGAR
+DATE: 2021-12-15
+
+CAPTURED EXCERPT / KEY FACTS:
+Unsolicited, preliminary, non-binding IOI dated 2021-08-11 at $80.00 per share (bidder identity not captured). Board determined a review of strategic alternatives, including a potential sale, was in the best interests of the Company; Board met in two sessions on 2021-08-28 to review strategic plan. 2021-09-18 KKR and 'Party B' joint non-binding IOI at $82.50. KKR letters 2021-10-05 and 2021-10-27 (at least $82.50). 2021-10-25 KKR asked (via Morgan Stanley) to partner with GIP; 2021-10-29 Board permitted KKR and GIP to partner as joint bidders ('KKR/GIP Consortium') in light of another bidder's withdrawal, subject to GIP NDA. Other parties referred to as Party C, Party I. Risk language: financing risk in light of capital expenditure requirements; increased competition.

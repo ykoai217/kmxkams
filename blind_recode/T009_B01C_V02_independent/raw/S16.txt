@@ -1,0 +1,11 @@
+SOURCE S16 | captured 2026-09-27 via WebSearch tool (search-index summary, not source body)
+URL: https://finance.yahoo.com/markets/stocks/articles/data-center-operator-cyrusone-plans-100520897.html
+
+ACCESS: SEARCH_INDEX_EXCERPT: source body NOT retrieved. Host blocked by session egress policy (sec.gov, businesswire.com, kkr.com, cyrusone.com, global-infra.com, web.archive.org, wikipedia.org all denied). Text is the WebSearch tool's index-derived summary of the page, captured 2026-09-27.
+
+TITLE: Data center operator CyrusOne plans potential 2027 IPO, banks pitch for roles, sources say
+PUBLISHER: Reuters (via Yahoo Finance); Private Equity Wire
+DATE: 2026 (exact date not captured)
+
+CAPTURED EXCERPT / KEY FACTS:
+CyrusOne, owned by KKR and BlackRock's GIP, preparing for an IPO as early as 2027; could raise ~$5bn; banks pitching.

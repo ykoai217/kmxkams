@@ -1,0 +1,11 @@
+SOURCE S14 | captured 2026-09-27 via WebSearch tool (search-index summary, not source body)
+URL: https://www.datacenterfrontier.com/cloud/article/55128131/cyrusone-secures-nearly-12-billion-in-financing-for-data-center-growth-ai-digital-infrastructure-expansion
+
+ACCESS: SEARCH_INDEX_EXCERPT: source body NOT retrieved. Host blocked by session egress policy (sec.gov, businesswire.com, kkr.com, cyrusone.com, global-infra.com, web.archive.org, wikipedia.org all denied). Text is the WebSearch tool's index-derived summary of the page, captured 2026-09-27.
+
+TITLE: CyrusOne Secures Nearly $12 Billion in Financing for Data Center Growth, AI Digital Infrastructure Expansion
+PUBLISHER: Data Center Frontier
+DATE: 2024 (exact date not captured)
+
+CAPTURED EXCERPT / KEY FACTS:
+CyrusOne raised ~$9.7bn of additional debt capital; Morgan Stanley, TD Securities and KKR Capital Markets lead arrangers of warehouse facility; Wells Fargo lead arranger of revolver.

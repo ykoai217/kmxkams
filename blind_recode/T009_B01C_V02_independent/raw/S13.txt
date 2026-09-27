@@ -1,0 +1,11 @@
+SOURCE S13 | captured 2026-09-27 via WebSearch tool (search-index summary, not source body)
+URL: https://www.businesswire.com/news/home/20230118005286/en/CyrusOne-Buys-Land-for-Future-Hyperscale-Data-Center-in-Northern-Virginia
+
+ACCESS: SEARCH_INDEX_EXCERPT: source body NOT retrieved. Host blocked by session egress policy (sec.gov, businesswire.com, kkr.com, cyrusone.com, global-infra.com, web.archive.org, wikipedia.org all denied). Text is the WebSearch tool's index-derived summary of the page, captured 2026-09-27.
+
+TITLE: CyrusOne Buys Land for Future Hyperscale Data Center in Northern Virginia
+PUBLISHER: CyrusOne
+DATE: 2023-01-18
+
+CAPTURED EXCERPT / KEY FACTS:
+Land purchase for future hyperscale data center in Northern Virginia.

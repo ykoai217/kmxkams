@@ -1,0 +1,19 @@
+﻿Check,Required,DR self-check result,Notes
+Manifest rows readable,1 exact row (single-candidate packet; template says 10),PASS,raw_deals.jsonl and batch_manifest.jsonl each 1 row; packet hashes verified vs MANIFEST.json
+Coding Output rows,1,PASS,1 row
+Every Sample ID preserved,1/1 exact,PASS,T009
+Every MI ID preserved,1/1 exact,PASS,SPTRD1918006; SOURCE fields copied verbatim
+Identity conflicts logged,100% of conflicts,PASS,"R01-R04, R09, R11"
+Claim Evidence coverage,Every non-N/A coded concept has a claim row,PASS,34 claim rows
+Source Log coverage,Every Source ID used exists in Source Log,PASS,missing=[]
+Weak source used as evidence,0,PASS,S20 logged and excluded
+Causal edges,Evidence-backed for every materially coded deal,PASS,22 edges; PR-01 unlinked by grammar (R07)
+Residuals,All identity/evidence/ontology problems logged,PASS,11 residuals
+QC reproducible,"Yes, from output rows",PASS,Generated from structured rows; hashes in LOCK_MANIFEST.json
+Output format,.xlsx or exact-schema CSV; no PDF substitute,PASS,"Exact-schema CSV (UTF-8 BOM, template headers)"
+R06 primary counterfactuals,Every R-P has counterfactual,PASS,"primaries=['PR-01', 'BM-23', 'VM-14.1']"
+R37 non-terminal check,BM-23 not alone,CONDITIONAL PASS,see Coding_Output Non-terminal Motive Check
+R38 II ex-ante,II sources dated on/before close,PASS,II-01 source 2021-11-15; close 2022-03-25
+R27 policy fields,All 7 fields for any PC claim,N/A,No PC claim coded
+Genuine source bodies used,Primary bodies read,FAIL,Egress policy blocked all source hosts; index excerpts only (R05). Package INCOMPLETE for Gold-path use.
+Human sign-off fields,Left blank,PASS,human_reviewer_decision blank; gold_eligible=N

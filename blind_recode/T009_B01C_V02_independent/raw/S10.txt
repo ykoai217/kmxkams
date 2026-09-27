@@ -1,0 +1,11 @@
+SOURCE S10 | captured 2026-09-27 via WebSearch tool (search-index summary, not source body)
+URL: https://www.datacenterdynamics.com/en/news/confirmed-kkr-gip-acquire-cyrusone-for-15bn-american-tower-acquires-coresite/
+
+ACCESS: SEARCH_INDEX_EXCERPT: source body NOT retrieved. Host blocked by session egress policy (sec.gov, businesswire.com, kkr.com, cyrusone.com, global-infra.com, web.archive.org, wikipedia.org all denied). Text is the WebSearch tool's index-derived summary of the page, captured 2026-09-27.
+
+TITLE: Confirmed: KKR & GIP acquire CyrusOne for $15bn, American Tower acquires CoreSite for $10.1bn
+PUBLISHER: DatacenterDynamics
+DATE: 2021-11-15
+
+CAPTURED EXCERPT / KEY FACTS:
+Same-week announcements: KKR/GIP-CyrusOne ($15bn) and American Tower-CoreSite ($10.1bn).

@@ -1,0 +1,11 @@
+SOURCE S18 | captured 2026-09-27 via WebSearch tool (search-index summary, not source body)
+URL: https://www.global-infra.com/portfolio-page/cyrusone/
+
+ACCESS: SEARCH_INDEX_EXCERPT: source body NOT retrieved. Host blocked by session egress policy (sec.gov, businesswire.com, kkr.com, cyrusone.com, global-infra.com, web.archive.org, wikipedia.org all denied). Text is the WebSearch tool's index-derived summary of the page, captured 2026-09-27.
+
+TITLE: CyrusOne portfolio page
+PUBLISHER: Global Infrastructure Partners
+DATE: undated
+
+CAPTURED EXCERPT / KEY FACTS:
+CyrusOne is a leading global hyperscale data center platform with over 50 operating data centers in key digital gateway markets primarily across the U.S. and Europe.

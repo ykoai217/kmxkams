@@ -1,0 +1,11 @@
+SOURCE S19 | captured 2026-09-27 via WebSearch tool (search-index summary, not source body)
+URL: https://www.cravath.com/news-insights/cyrusones-dollar15-billion-acquisition-by-kkr-and-global-infrastructure-partners.html
+
+ACCESS: SEARCH_INDEX_EXCERPT: source body NOT retrieved. Host blocked by session egress policy (sec.gov, businesswire.com, kkr.com, cyrusone.com, global-infra.com, web.archive.org, wikipedia.org all denied). Text is the WebSearch tool's index-derived summary of the page, captured 2026-09-27.
+
+TITLE: CyrusOne's $15 Billion Acquisition by KKR and GIP (Cravath); GIP and KKR to Acquire / Complete $15 Billion Acquisition of CyrusOne (Paul, Weiss)
+PUBLISHER: Cravath, Swaine & Moore LLP; Paul, Weiss
+DATE: 2021-11-15 / 2022-03-25
+
+CAPTURED EXCERPT / KEY FACTS:
+Headline-level corroboration of $15bn acquisition by KKR and GIP, signing and completion.

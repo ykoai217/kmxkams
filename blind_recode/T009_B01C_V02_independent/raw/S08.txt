@@ -1,0 +1,11 @@
+SOURCE S08 | captured 2026-09-27 via WebSearch tool (search-index summary, not source body)
+URL: https://www.sec.gov/Archives/edgar/data/1553023/000155302321000088/q3_2021ex991-earningsrelea.htm
+
+ACCESS: SEARCH_INDEX_EXCERPT: source body NOT retrieved. Host blocked by session egress policy (sec.gov, businesswire.com, kkr.com, cyrusone.com, global-infra.com, web.archive.org, wikipedia.org all denied). Text is the WebSearch tool's index-derived summary of the page, captured 2026-09-27.
+
+TITLE: CyrusOne Reports Third Quarter 2021 Earnings (Form 8-K Ex. 99.1)
+PUBLISHER: CyrusOne Inc.
+DATE: 2021-10-27
+
+CAPTURED EXCERPT / KEY FACTS:
+Q3 2021 signed $37.8m annualised GAAP revenue and 20 MW; 38 MW brought online; development projects in London, Frankfurt, Northern Virginia and San Antonio expected to add ~211,000 CSF and 49 MW plus 469,000 sq ft powered shell; 82% of square footage under development pre-leased; land purchased in Frankfurt and San Antonio for ~$23m.

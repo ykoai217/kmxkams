@@ -1,0 +1,11 @@
+SOURCE S02 | captured 2026-09-27 via WebSearch tool (search-index summary, not source body)
+URL: https://www.sec.gov/Archives/edgar/data/1553023/000095015721001169/ex2-1.htm
+
+ACCESS: SEARCH_INDEX_EXCERPT: source body NOT retrieved. Host blocked by session egress policy (sec.gov, businesswire.com, kkr.com, cyrusone.com, global-infra.com, web.archive.org, wikipedia.org all denied). Text is the WebSearch tool's index-derived summary of the page, captured 2026-09-27.
+
+TITLE: Agreement and Plan of Merger among CyrusOne Inc., Cavalry Parent L.P. and Cavalry Merger Sub LLC (Form 8-K Ex. 2.1)
+PUBLISHER: CyrusOne Inc. / SEC EDGAR
+DATE: 2021-11-14
+
+CAPTURED EXCERPT / KEY FACTS:
+On 2021-11-14 CyrusOne entered into Agreement and Plan of Merger with Cavalry Parent L.P. (Delaware LP) and Cavalry Merger Sub LLC (Delaware LLC, wholly owned subsidiary of Parent); Merger Sub merges with and into the Company, Company surviving as wholly owned subsidiary of Parent. Parent is controlled by funds affiliated with Kohlberg Kravis Roberts & Co. L.P. ('KKR') and Global Infrastructure Management, LLC ('GIP').

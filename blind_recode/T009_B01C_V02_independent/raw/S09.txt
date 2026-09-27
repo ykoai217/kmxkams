@@ -1,0 +1,11 @@
+SOURCE S09 | captured 2026-09-27 via WebSearch tool (search-index summary, not source body)
+URL: https://www.investing.com/news/stock-market-news/cyrusone-to-go-private-in-15-billion-deal-with-kkr-global-infrastructure-partners-2679470
+
+ACCESS: SEARCH_INDEX_EXCERPT: source body NOT retrieved. Host blocked by session egress policy (sec.gov, businesswire.com, kkr.com, cyrusone.com, global-infra.com, web.archive.org, wikipedia.org all denied). Text is the WebSearch tool's index-derived summary of the page, captured 2026-09-27.
+
+TITLE: KKR, Global Infrastructure Partners to take CyrusOne private for $11.5 billion
+PUBLISHER: Reuters (syndicated via investing.com / Yahoo Finance)
+DATE: 2021-11-15
+
+CAPTURED EXCERPT / KEY FACTS:
+$11.49bn in cash for equity; $90.50 is a 5.9% premium to last close; ~$15bn including debt; sector boomed during COVID-19 pandemic; infrastructure and real-estate funds scooping up data-centre assets to capitalise on demand surge; Blackstone agreed to buy QTS Realty for $10bn in June 2021.

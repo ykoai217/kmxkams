@@ -1,0 +1,23 @@
+﻿edge_id,sample_id,from_claim_id,to_claim_id,edge_type,source_ids,rationale
+T009-E01,T009,T009-C01,T009-C06,selects,S06;S01,[E4] Infrastructure-fund capital pool selects the financial ownership-value motive layer.
+T009-E02,T009,T009-C01,T009-C09,selects,S06,[E4] Infrastructure-fund capital pool selects contracted cash-flow motive as a rival/contributory layer.
+T009-E03,T009,T009-C03,T009-C06,activates,S06,[E4] Available fund capital makes a financial ownership thesis live.
+T009-E04,T009,T009-C05,T009-C03,creates,S09;S10,[E4] 2021 liquidity regime supports deployable sponsor capital.
+T009-E05,T009,T009-C06,T009-C15,requires,S01;S08,[E4] Footprint-expansion thesis requires control of the development pipeline.
+T009-E06,T009,T009-C06,T009-C18,requires,S01;S18,[E4] Thesis requires control of the multi-market operating platform.
+T009-E07,T009,T009-C15,T009-C07,realises,S01;S08,[E4] Pipeline control realises value via long-term development capital.
+T009-E08,T009,T009-C09,T009-C17,requires,S08,[E4] Contracted cash-flow motive requires customer contracts/backlog.
+T009-E09,T009,T009-C17,T009-C10,realises,S08,[E4] Long-tenor leases realise duration-matched capital value.
+T009-E10,T009,T009-C06,T009-C12,pursued through,S01;S12,[E4] Motive pursued through a multi-market platform expansion strategy.
+T009-E11,T009,T009-C12,T009-C13,assigns,S01,[E4] Strategy assigns this deal the platform role.
+T009-E12,T009,T009-C06,T009-C28,implemented through,S01,[E4] Growth-funding motive implemented through standalone-platform intent.
+T009-E13,T009,T009-C28,T009-C30,compared with,S01;S11,[E1] Ex-ante standalone intent vs observed standalone operation: consistent.
+T009-E14,T009,T009-C29,T009-C06,corroborates,S12;S13;S14,"[E1] Post-close development capex and financing consistent with growth-funding thesis; E2 upgrade withheld (index-only, non-discriminating on cost)."
+T009-E15,T009,T009-C21,T009-C08,affects,S03;S04,"[E4] Competitive bidding lifted price from $80.00 to $90.50, compressing any arbitrage gap (negative sign)."
+T009-E16,T009,T009-C22,T009-C08,affects,S01,"[E4] Undervaluation, if present, is the source of arbitrage value."
+T009-E17,T009,T009-C19,T009-C20,creates,S03,[E4] Seller valuation-window motive (low likelihood) creates the sale-process situation; process was initiated by an unsolicited approach.
+T009-E18,T009,T009-C23,DEAL,triggers,S07;S03,[E4] CEO separation 2021-07-28 preceded first unsolicited IOI 2021-08-11.
+T009-E19,T009,T009-C24,DEAL,triggers,S09,[E4] QTS take-private (June 2021) as competitor/precedent move; weak.
+T009-E20,T009,T009-C27,T009-C26,enables,S06,[E1] Acquisition debt enables the all-cash take-private.
+T009-E21,T009,T009-C32,T009-C06,refutes,S16,[E5] Kill test pending exit outcome.
+T009-E22,T009,T009-C34,T009-C06,refutes,S08,[E5] Kill test pending concentration data.

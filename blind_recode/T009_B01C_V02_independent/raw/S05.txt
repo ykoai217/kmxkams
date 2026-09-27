@@ -1,0 +1,11 @@
+SOURCE S05 | captured 2026-09-27 via WebSearch tool (search-index summary, not source body)
+URL: https://www.sec.gov/Archives/edgar/data/1553023/000110465922010326/tm225019d1_ex99-1.htm
+
+ACCESS: SEARCH_INDEX_EXCERPT: source body NOT retrieved. Host blocked by session egress policy (sec.gov, businesswire.com, kkr.com, cyrusone.com, global-infra.com, web.archive.org, wikipedia.org all denied). Text is the WebSearch tool's index-derived summary of the page, captured 2026-09-27.
+
+TITLE: CyrusOne Stockholders Approve Acquisition by KKR and Global Infrastructure Partners (Form 8-K Ex. 99.1)
+PUBLISHER: CyrusOne Inc.
+DATE: 2022-02-01
+
+CAPTURED EXCERPT / KEY FACTS:
+Special meeting 2022-02-01: merger approved by 78.41% of common stock outstanding and entitled to vote and more than 99.5% of votes cast.
